@@ -1,9 +1,12 @@
 # spacer-vue-project
+This app uses NASA image API to fetch images and display them after passing search query.
 
-## Project setup
+# How to start?
 ```
 npm install
+npm run serve
 ```
+ 
 
 ### Compiles and hot-reloads for development
 ```
